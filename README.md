@@ -7,9 +7,14 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites
 
 Install newest version of Chrome Browser https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3L621f-19eGrOx419ATdPBVs09jzgz2puVRYyJqvpK4b8ZRsl6v2UhoCXBEQAvD_BwE&gclsrc=aw.ds
+
 Have java jdk 19 or newer installed https://www.oracle.com/java/technologies/downloads/
+
 Install IntelliJ https://www.jetbrains.com/idea/download/?source=google&medium=cpc&campaign=14799766074&term=java%20software%20platform&content=602213659112&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3LM1Vx3xvmKlKP6ivA6DxY2W2LRPtKfsS5VHnoL05F_jvgnwTeFMvhoCLRAQAvD_BwE#section=windows
+
 After Downloading the project, open it with IntelliJ and open the maven tab and do a clean+install. After that refresh the project.
+
+
 
 Running the tests
 

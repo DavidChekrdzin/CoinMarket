@@ -22,7 +22,7 @@ FE Test1 - Nije dostupno zato sto se stranica promenila
 
 Fe Test2 - Napravljen test medjutim i ovo je sada outdated test jer se stranica promenila
 
-Fe Test3 - Open IntelliJ>Go inside project>Src>Test>FeTest3.java>Run test
+Fe Test3 - Open IntelliJ>CoinMarketPageObjectModel/CoinMarketPageObjectModel/CoinMarket/src/main/Cucumber/FeTest3.features
 Fe Test3 Description - FE Test 3
 1. Open https://coinmarketcap.com/
 2. Display the drop-down menu on the Cryptocurrencies tab.

@@ -1,4 +1,4 @@
-# CoinMarketPageObjectModel
+# CoinMarket
 
 Getting Started
 
